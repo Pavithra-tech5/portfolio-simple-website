@@ -24,7 +24,7 @@ A simple personal portfolio website built using HTML and CSS. The website consis
 
 1. Clone or download this repository.
 2. Open the project folder.
-3. Open `home.html` in a web browser.
+3. Open https://pavithra-tech5.github.io/portfolio-simple-website/ in a web browser.
 4. Use the navigation menu to access the Contact page.
 
 ## Purpose
