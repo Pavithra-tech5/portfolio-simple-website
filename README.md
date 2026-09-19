@@ -20,6 +20,13 @@ A simple personal portfolio website built using HTML and CSS. The website consis
 * Separate HTML pages
 * External CSS styling
 
+## How to View
+
+1. Clone or download this repository.
+2. Open the project folder.
+3. Open `home.html` in a web browser.
+4. Use the navigation menu to access the Contact page.
+
 ## Purpose
 
 This project was created to practice HTML and CSS fundamentals and to build a basic personal portfolio website.
@@ -32,3 +39,6 @@ This project was created to practice HTML and CSS fundamentals and to build a ba
 * Creating navigation menus
 * Using external CSS files
 * Building a basic responsive layout
+
+ ## Thank You
+Thank you for visiting my portfolio repository.
